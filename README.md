@@ -1,3 +1,5 @@
+このブランチは、2026年版EDINETタクソノミ（案）を検証・準備用途で一時的に取り込んだものです。正式版の公表後、mainブランチに更新が反映された段階で、本ブランチは削除予定です。
+
 # EDINET Taxonomy Repository
 
 このリポジトリは、金融庁が公開する **EDINETタクソノミ（XBRL分類体系）** を、開発者・研究者・実務者がより使いやすく扱えるように整理・提供するものです。  
@@ -38,6 +40,7 @@
 
 以下は、EDINETタクソノミの公式公開ページへのリンクです。すべて金融庁のサイトより取得しています。
 
+- [2026年版EDINETタクソノミ（案）](https://www.fsa.go.jp/search/20250808.html)
 - [2025年版EDINETタクソノミ](https://www.fsa.go.jp/search/20241112.html)
 - [2024年版EDINETタクソノミ](https://www.fsa.go.jp/search/20231211.html)
 - [2023年版EDINETタクソノミ](https://www.fsa.go.jp/search/20221108.html)
