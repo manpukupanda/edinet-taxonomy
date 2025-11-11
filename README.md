@@ -38,6 +38,7 @@
 
 以下は、EDINETタクソノミの公式公開ページへのリンクです。すべて金融庁のサイトより取得しています。
 
+- [2026年版EDINETタクソノミ](https://www.fsa.go.jp/search/20251111.html)
 - [2025年版EDINETタクソノミ](https://www.fsa.go.jp/search/20241112.html)
 - [2024年版EDINETタクソノミ](https://www.fsa.go.jp/search/20231211.html)
 - [2023年版EDINETタクソノミ](https://www.fsa.go.jp/search/20221108.html)
